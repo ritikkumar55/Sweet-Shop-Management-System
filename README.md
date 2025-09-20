@@ -140,6 +140,3 @@ In **backend/.env**:
 -   Always secure your `JWT_SECRET` in production.
 
 ------------------------------------------------------------------------
-
-
-MIT © [Ritik Kumar](https://github.com/ritikkumar55
